@@ -17,8 +17,8 @@
               <attribute id="Folder" type="LSWString" value="UNSO - CX" />
               <attribute id="MD5" type="LSWString" value="" />
               <attribute id="Name" type="LSWString" value="Ultimate NPC Stat Overhaul - CX" />
-              <attribute id="UUID" type="FixedString" value="61e8471b-4eda-4493-829d-e3c29ecc36c3" />
-              <attribute id="Version64" type="int64" value="108086391056891905" />
+              <attribute id="UUID" type="FixedString" value="3763e174-332f-4aed-b675-bf0a6c117fae" />
+              <attribute id="Version64" type="int64" value="108367868181086208" />
             </node>
           </children>
         </node>
@@ -32,17 +32,17 @@
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Goon's Short Legs Overhaul - UNSO" />
+          <attribute id="Name" type="FixedString" value="Goon's Short Legs Overhaul - UNSO - CX" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="fc24e533-8554-46f9-8ef9-60a71b33c48e" />
-          <attribute id="Version64" type="int64" value="36169534507319296" />
+          <attribute id="Version64" type="int64" value="36169536654802944" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="36169534507319296" />
+              <attribute id="Version64" type="int64" value="36169536654802944" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
